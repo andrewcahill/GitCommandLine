@@ -6,7 +6,7 @@ namespace GitCommandLine
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello contributor!");
+            Console.WriteLine("Hello owner!");
         }
     }
 }
